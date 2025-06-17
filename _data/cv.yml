@@ -11,29 +11,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D., Electrical Engineering
+      institution: Arizona State University, Tempe, USA
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+        - Thesis - Building Invariant, Robust and Stable Machine Learning Systems Using Geometry and Topology
+        - Coursework - Statistical Machine Learning, Computational Image Understanding & Pattern Analysis, Digital Image & Video Processing, Optimization, Random Signal Theory, Transform Theory, Detection & Estimation Theory
+    
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Advanced Computer Scientist
+      institution: SRI
+      year: 2021 - Present
       description:
         - Description 1.
         - Description 2.
