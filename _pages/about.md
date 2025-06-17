@@ -32,7 +32,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Anirudh Som is an Advanced Computer Scientist at SRI International with over a decade of experience designing and deploying machine learning systems across healthcare, education, and human-machine interaction. He leads R&D efforts for high-impact programs funded by ARPA-H, DARPA, and the NSF, developing solutions in medical imaging, human behavior analysis, and large language models.
+Anirudh Som is an Advanced Computer Scientist at [SRI](https://www.sri.com/) with over a decade of experience designing and deploying machine learning systems across healthcare, education, and human-machine interaction. He leads R&D efforts for high-impact programs funded by ARPA-H, DARPA, and the NSF, developing solutions in medical imaging, human behavior analysis, and large language models.
 
 Anirudh combines strong technical depth with practical execution, having delivered prototypes and proof-of-concept systems for commercial clients including L’Oréal and Honda. He holds multiple patents and has published extensively at leading AI venues such as CVPR, ACL, and ECCV. Anirudh earned his Ph.D. in Electrical Engineering from Arizona State University, where he was advised by [Dr. Pavan Turaga](https://pavanturaga.com/). He is passionate about translating cutting-edge research into real-world impact.
 
