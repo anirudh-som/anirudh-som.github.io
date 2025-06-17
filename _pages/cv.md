@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Experience
 nav: true
 nav_order: 5
 cv_pdf: Anirudh-Som.pdf # you can also use external links here
