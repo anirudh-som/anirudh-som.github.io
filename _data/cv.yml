@@ -62,13 +62,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022 - 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Research Recognition Award, CVT Group, SRI
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Facilitators’ Choice Award, 2021 NSF STEM for All Video Showcase
+    - year: 2020
+      items:
+        - Travel Award, Harvard CRCS workshop on AI for Social Impact
+    - year: 2019
+      items:
+        - Most Innovative Award, Poster Symposium, Roche Diagnostics 
+    - year: 2019
+      items:
+        - First Position in the 2019 Digital Pathology Hackathon, Roche Diagnostics
 
 - title: Academic Interests
   type: nested_list
