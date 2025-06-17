@@ -1,34 +1,22 @@
 {
   "basics": {
     "name": "Anirudh Som",
-    "label": "Advanced Computer Scientist",
     "image": "",
     "email": "contact.anirudh.som [at] gmail [dot] com",
-    "summary": "Experienced AI/ML lead with over 10 years of expertise in machine learning, deep learning, and natural language processing (NLP). Currently serving as the technical lead and machine learning expert at SRI International, specializing in building computer vision and NLP pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "Experienced AI/ML lead with over 10 years of expertise in machine learning, deep learning, and natural language processing (NLP). Currently serving as the technical lead and machine learning expert at SRI, specializing in building computer vision and NLP pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.",
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "SRI, ",
+      "position": "Advanced Computer Scientist",
+      "url": "https://www.sri.com",
+      "startDate": "2021",
+      "endDate": "Present",
+      "highlights": ["ARPA-H PARADIGM: Leading the medical object detection and segmentation effort, and working towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.",
+                      "DARPA CCU: Developed automated modules for facial analysis, scene understanding and dialogue assessment to help improve operator situational awareness and interactional effectiveness in various cross-cultural settings.",
+                      "DARPA EDGE: Developed an emotion recognition and feedback pipeline to help design better human machine interfaces (HMI) for better operator situational awareness in off-nominal situations.",
+                      "NSF: Served as the co-PI  and developed automated student group collaboration assessment and recommendation systems by modeling individual-level and group-level behaviors in online and in-person classroom settings.",
+                      "Commercial: Developed proof-of-concepts and working prototypes for the following commercial clients: L'Oréal, Honda and Arcoscan."]
     }
   ],
   "volunteer": [
