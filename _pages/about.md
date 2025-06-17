@@ -34,6 +34,21 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Anirudh Som is an Advanced Computer Scientist at SRI International with over a decade of experience designing and deploying machine learning systems across healthcare, education, and human-machine interaction. He leads R&D efforts for high-impact programs funded by ARPA-H, DARPA, and the NSF, developing solutions in medical imaging, human behavior analysis, and large language models.
 
-Anirudh combines strong technical depth with practical execution, having delivered prototypes and proof-of-concept systems for commercial clients including L’Oréal and Honda. He holds multiple patents and has published extensively at leading AI venues such as CVPR, ACL, and ECCV. Anirudh earned his Ph.D. in Electrical Engineering from Arizona State University under the advisement of [Dr. Pavan Turaga](https://pavanturaga.com/). He is passionate about translating cutting-edge research into real-world impact.
+Anirudh combines strong technical depth with practical execution, having delivered prototypes and proof-of-concept systems for commercial clients including L’Oréal and Honda. He holds multiple patents and has published extensively at leading AI venues such as CVPR, ACL, and ECCV. Anirudh earned his Ph.D. in Electrical Engineering from Arizona State University, where he was advised by [Dr. Pavan Turaga](https://pavanturaga.com/). He is passionate about translating cutting-edge research into real-world impact.
 
+<br>
 
+<div id="quote" style="font-style: italic; margin-top: 20px; color: #555;"></div>
+
+<script>
+  const quotes = [
+    "The best way to predict the future is to invent it. — Alan Kay",
+    "In the middle of difficulty lies opportunity. — Albert Einstein",
+    "Simplicity is the soul of efficiency. — Austin Freeman",
+    "Innovation distinguishes between a leader and a follower. — Steve Jobs",
+    "If you can’t explain it simply, you don’t understand it well enough. — Albert Einstein"
+  ];
+
+  const randomIndex = Math.floor(Math.random() * quotes.length);
+  document.getElementById("quote").innerText = quotes[randomIndex];
+</script>
