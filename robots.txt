@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://contactanirudhsom.github.io/sitemap.xml
+Sitemap: https://anirudh-som.github.io/sitemap.xml
