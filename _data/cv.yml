@@ -1,12 +1,12 @@
-- title: General Information
+- title: Info
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Anirudh Som
+    - name: Email
+      value: contact.anirudh.som [at] gmail [dot] com
+    # - name: Languages
+    #   value: English, German
 
 - title: Education
   type: time_table
