@@ -3,21 +3,7 @@
     "name": "Anirudh Som",
     "image": "",
     "email": "contact.anirudh.som[at]gmail[dot]com",
-    "summary": "Experienced AI/ML lead with over 10 years of expertise in machine learning, deep learning, and natural language processing (NLP). Currently serving as the technical lead and machine learning expert at SRI, specializing in building computer vision and NLP pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "Experienced AI/ML lead with over 10 years of expertise in machine learning, deep learning, and natural language processing (NLP). Currently serving as the technical lead and machine learning expert at SRI, specializing in building computer vision and NLP pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.", 
   },
   "work": [
     {
@@ -26,7 +12,7 @@
       "url": "https://www.sri.com",
       "startDate": "2021",
       "endDate": "Present",
-      "summary": ["NSF: Served as the co-PI  and developed automated student group collaboration assessment and recommendation systems by modeling individual-level and group-level behaviors in online and in-person classroom settings.","Commercial: Developed proof-of-concepts and working prototypes for the following commercial clients: L'Oréal, Honda and Arcoscan."],
+      "summary": ["NSF - Served as the co-PI  and developed automated student group collaboration assessment and recommendation systems by modeling individual-level and group-level behaviors in online and in-person classroom settings.","Commercial - Developed proof-of-concepts and working prototypes for the following commercial clients: L`Oréal, Honda and Arcoscan."],
       "highlights": ["Relativity","Relativity"]
     }
   ],
