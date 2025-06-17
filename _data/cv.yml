@@ -64,30 +64,30 @@
   contents:
     - year: 2022 - 2024
       items:
-        - Research Recognition Award, CVT Group, SRI
+        - Research Recognition Award - Center for Vision Technologies Group, SRI
     - year: 2021
       items:
-        - Facilitators’ Choice Award, 2021 NSF STEM for All Video Showcase
+        - Facilitators’ Choice Award - 2021 NSF STEM for All Video Showcase
     - year: 2020
       items:
-        - Travel Award, Harvard CRCS workshop on AI for Social Impact
+        - Travel Award - Harvard CRCS workshop on AI for Social Impact
     - year: 2019
       items:
-        - Most Innovative Award, Poster Symposium, Roche Diagnostics 
+        - Most Innovative Award - Poster Symposium, Roche Diagnostics 
     - year: 2019
       items:
-        - First Position in the 2019 Digital Pathology Hackathon, Roche Diagnostics
+        - First Position in the 2019 Digital Pathology Hackathon - Roche Diagnostics
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Deep Learning Frameworks.
       items:
-        - Description 1.
-        - Description 2.
+        - Pytorch
+        - Tensorflow
+        - Keras
     - title: Topic 2.
       items:
         - Description 1.
         - Description 2.
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  
