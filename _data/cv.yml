@@ -6,8 +6,7 @@
     - name: Email
       value: contact.anirudh.som [at] gmail [dot] com
     - name: LinkedIn
-      value: anirudhsom
-      url: https://www.linkedin.com/in/anirudhsom/
+      value: www.linkedin.com/in/anirudhsom/
     # - name: Languages
     #   value: English, German
 
@@ -16,14 +15,13 @@
   contents:
     - title: Advanced Computer Scientist
       institution: SRI
-      url: https://www.sri.com
       year: 2021 - Present
       description:
         - ARPA-H PARADIGM - Leading the medical object detection and segmentation effort, and working towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.
         - DARPA CCU - Developed automated modules for facial analysis, scene understanding and dialogue assessment to help improve operator situational awareness and interactional effectiveness in various cross-cultural settings.
         - DARPA EDGE - Developed an emotion recognition and feedback pipeline to help design better human machine interfaces (HMI) for better operator situational awareness in off-nominal situations.
         - NSF - Served as the co-PI  and developed automated student group collaboration assessment and recommendation systems by modeling individual-level and group-level behaviors in online and in-person classroom settings.
-        - Commercial - Developed proof-of-concepts and working prototypes for the following commercial clients - "L'Oréal", "Honda" and "Arcoscan".
+        - Commercial - Delivered proof-of-concepts and functional prototypes for high-profile commercial clients.
 
     - title: Research Intern
       institution: [SRI](https://www.sri.com)
