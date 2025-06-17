@@ -6,7 +6,8 @@
     - name: Email
       value: contact.anirudh.som [at] gmail [dot] com
     - name: LinkedIn
-      value: www.linkedin.com/in/anirudhsom/
+      value: anirudhsom
+      url: https://www.linkedin.com/in/anirudhsom/
     # - name: Languages
     #   value: English, German
 
