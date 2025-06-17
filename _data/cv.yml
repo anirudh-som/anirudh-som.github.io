@@ -15,7 +15,7 @@
   type: time_table
   contents:
     - title: Advanced Computer Scientist
-      institution: SRI
+      institution: SRI, Princeton, New Jersey
       year: 2021 - Present
       description:
         - ARPA-H PARADIGM - Leading the medical object detection and segmentation effort, and working towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.
@@ -25,25 +25,25 @@
         - Commercial - Delivered proof-of-concepts and functional prototypes for high-profile commercial clients.
 
     - title: Research Intern
-      institution: SRI
+      institution: SRI, Princeton, New Jersey
       year: 2020
       description: 
         - Developed deep-learning-based algorithms for multimodal behavior analysis and assessment of student group collaboration in a classroom setting. The deep-learning models were designed with the objective of providing meaningful information to teachers and actionable feedback to students.
 
     - title: Digital Pathology Intern
-      institution: Roche
+      institution: Roche, Santa Clara, California
       year: 2018
       description:
         - Developed deep-learning-based image segmentation pipelines to identify regions of necrosis in multiplex immunofluorescence digital pathology images. Worked closely with the software platform team to integrate the trained deep-learning model on the internal research software platform for enabling Field-Of-View (FOV) and Whole-Slide-Image (WSI) inference.
 
     - title: Computation Intern
-      institution: Lawrence Livermore National Lab.
+      institution: Lawrence Livermore National Lab., Livermore, California
       year: 2018
       description:
         - Developed time-series-based deep-learning algorithms to model electrocardiogram (ECG) signals of different heart disease conditions. Proposed and implemented several strategies to handle the data-imbalance problem across the different heart disease categories.
 
     - title: Graduate Intern
-      institution: Mayo Clinic
+      institution: Mayo Clinic, Phoenix, Arizona
       year: 2015
       description:
         - Developed image processing and machine learning algorithms for identifying cancerous tissue regions in CT and MRI images.
