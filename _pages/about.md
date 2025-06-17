@@ -36,10 +36,7 @@ Anirudh Som is an Advanced Computer Scientist at SRI International with over a d
 
 Anirudh combines strong technical depth with practical execution, having delivered prototypes and proof-of-concept systems for commercial clients including L’Oréal and Honda. He holds multiple patents and has published extensively at leading AI venues such as CVPR, ACL, and ECCV. Anirudh earned his Ph.D. in Electrical Engineering from Arizona State University, where he was advised by [Dr. Pavan Turaga](https://pavanturaga.com/). He is passionate about translating cutting-edge research into real-world impact.
 
-<br>
-
-<div id="quote" style="font-style: italic; margin-top: 20px; color: #555;"></div>
-
+<div id="quote" style="font-style: italic; margin-top: 20px;"></div>
 <script>
   const quotes = [
     "The best way to predict the future is to invent it. — Alan Kay",
@@ -52,3 +49,5 @@ Anirudh combines strong technical depth with practical execution, having deliver
   const randomIndex = Math.floor(Math.random() * quotes.length);
   document.getElementById("quote").innerText = quotes[randomIndex];
 </script>
+
+<br>
