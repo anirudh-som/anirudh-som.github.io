@@ -6,7 +6,9 @@
     - name: Email
       value: contact.anirudh.som [at] gmail [dot] com
     - name: LinkedIn
-      value: "<a href='https://www.linkedin.com/in/anirudhsom/'>anirudhsom</a>"
+      value: "<a href='https://www.linkedin.com/in/anirudhsom/'>Connect</a>"
+    - name: Google Scholar
+      value: "<a href='https://scholar.google.com/citations?user=dY2-WmIAAAAJ&hl=en&oi=ao'>Patents and Publications</a>"
     # - name: Languages
     #   value: English, German
 
@@ -14,7 +16,7 @@
   type: time_table
   contents:
     - title: Advanced Computer Scientist
-      institution: SRI, Princeton, New Jersey
+      institution: "<a href='https://www.sri.com'>SRI</a>", Princeton, New Jersey
       year: 2021 - Present
       description:
         - ARPA-H PARADIGM - Leading the medical object detection and segmentation effort, and working towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.
@@ -24,25 +26,25 @@
         - Commercial - Delivered proof-of-concepts and functional prototypes for high-profile commercial clients.
 
     - title: Research Intern
-      institution: SRI, Princeton, New Jersey
+      institution: "<a href='https://www.sri.com'>SRI</a>", Princeton, New Jersey
       year: 2020
       description: 
         - Developed deep-learning-based algorithms for multimodal behavior analysis and assessment of student group collaboration in a classroom setting. The deep-learning models were designed with the objective of providing meaningful information to teachers and actionable feedback to students.
 
     - title: Digital Pathology Intern
-      institution: Roche, Santa Clara, California
+      institution: "<a href='https://diagnostics.roche.com/'>Roche Diagnostics</a>", Santa Clara, California
       year: 2019
       description:
         - Developed deep-learning-based image segmentation pipelines to identify regions of necrosis in multiplex immunofluorescence digital pathology images. Worked closely with the software platform team to integrate the trained deep-learning model on the internal research software platform for enabling Field-Of-View (FOV) and Whole-Slide-Image (WSI) inference.
 
     - title: Computation Intern
-      institution: Lawrence Livermore National Lab., Livermore, California
+      institution: "<a href='https://www.llnl.gov/'>Lawrence Livermore National Lab.</a>", Livermore, California
       year: 2018
       description:
         - Developed time-series-based deep-learning algorithms to model electrocardiogram (ECG) signals of different heart disease conditions. Proposed and implemented several strategies to handle the data-imbalance problem across the different heart disease categories.
 
     - title: Graduate Intern
-      institution: Mayo Clinic, Phoenix, Arizona
+      institution: "<a href='https://www.mayoclinic.org/departments-centers/radiation-oncology/home/orc-20188588'>Mayo Clinic</a>", Phoenix, Arizona
       year: 2015
       description:
         - Developed image processing and machine learning algorithms for identifying cancerous tissue regions in CT and MRI images.
@@ -51,19 +53,12 @@
   type: time_table
   contents:
     - title: Ph.D., Electrical Engineering
-      institution: Arizona State University, Tempe, USA
+      institution: "<a href='https://www.asu.edu/'>Arizona State University</a>", Tempe, USA
       year: 2020
       description:
         - Thesis - Building Invariant, Robust and Stable Machine Learning Systems Using Geometry and Topology
         - Coursework - Statistical Machine Learning, Computational Image Understanding & Pattern Analysis, Digital Image & Video Processing, Optimization, Random Signal Theory, Transform Theory, Detection & Estimation Theory
     
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
