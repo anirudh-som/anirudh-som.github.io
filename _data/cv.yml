@@ -92,16 +92,3 @@
       items:
         - First Position in the 2019 Digital Pathology Hackathon - Roche Diagnostics
 
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Deep Learning Frameworks.
-      items:
-        - Pytorch
-        - Tensorflow
-        - Keras
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-  
