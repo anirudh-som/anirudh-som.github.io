@@ -1,12 +1,51 @@
-- title: Info
+- title: Contact Info
   type: map
   contents:
     - name: Name
       value: Anirudh Som
     - name: Email
       value: contact.anirudh.som [at] gmail [dot] com
+    - name: LinkedIn
+      value: [anirudhsom](https://www.linkedin.com/in/anirudhsom/)
     # - name: Languages
     #   value: English, German
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Advanced Computer Scientist
+      institution: [SRI](https://www.sri.com)
+      year: 2021 - Present
+      description:
+        - ARPA-H PARADIGM - Leading the medical object detection and segmentation effort, and working towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.
+        - DARPA CCU - Developed automated modules for facial analysis, scene understanding and dialogue assessment to help improve operator situational awareness and interactional effectiveness in various cross-cultural settings.
+        - DARPA EDGE - Developed an emotion recognition and feedback pipeline to help design better human machine interfaces (HMI) for better operator situational awareness in off-nominal situations.
+        - NSF - Served as the co-PI  and developed automated student group collaboration assessment and recommendation systems by modeling individual-level and group-level behaviors in online and in-person classroom settings.
+        - Commercial - Developed proof-of-concepts and working prototypes for the following commercial clients - L`Oréal, Honda and Arcoscan.
+
+    - title: Research Intern
+      institution: [SRI](https://www.sri.com)
+      year: 2020
+      description: 
+        - Developed deep-learning-based algorithms for multimodal behavior analysis and assessment of student group collaboration in a classroom setting. The deep-learning models were designed with the objective of providing meaningful information to teachers and actionable feedback to students.
+
+    - title: Digital Pathology Intern
+      institution: [Roche](https://diagnostics.roche.com/)
+      year: 2018
+      description:
+        - Developed deep-learning-based image segmentation pipelines to identify regions of necrosis in multiplex immunofluorescence digital pathology images. Worked closely with the software platform team to integrate the trained deep-learning model on the internal research software platform for enabling Field-Of-View (FOV) and Whole-Slide-Image (WSI) inference.
+
+    - title: Computation Intern
+      institution: [Lawrence Livermore National Lab.](https://www.llnl.gov/)
+      year: 2018
+      description:
+        - Developed time-series-based deep-learning algorithms to model electrocardiogram (ECG) signals of different heart disease conditions. Proposed and implemented several strategies to handle the data-imbalance problem across the different heart disease categories.
+
+    - title: Graduate Intern
+      institution: [Mayo Clinic](https://www.mayoclinic.org/departments-centers/radiation-oncology/home/orc-20188588)
+      year: 2015
+      description:
+        - Developed image processing and machine learning algorithms for identifying cancerous tissue regions in CT and MRI images.
 
 - title: Education
   type: time_table
@@ -16,41 +55,8 @@
       year: 2020
       description:
         - Thesis - Building Invariant, Robust and Stable Machine Learning Systems Using Geometry and Topology
-        - Coursework - Statistical Machine Learning, Computational Image Understanding & Pattern Analysis, Digital Image & Video Processing, Optimization, Random Signal Theory, Transform Theory, Detection & Estimation Theory
+        - Coursework - Statistical Machine Learning; Computational Image Understanding & Pattern Analysis; Digital Image & Video Processing; Optimization; Random Signal Theory; Transform Theory; Detection & Estimation Theory
     
-- title: Experience
-  type: time_table
-  contents:
-    - title: Advanced Computer Scientist
-      institution: SRI
-      year: 2021 - Present
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
 - title: Open Source Projects
   type: time_table
   contents:
