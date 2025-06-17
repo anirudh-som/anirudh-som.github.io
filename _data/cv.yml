@@ -6,7 +6,8 @@
     - name: Email
       value: contact.anirudh.som [at] gmail [dot] com
     - name: LinkedIn
-      value: [anirudhsom](https://www.linkedin.com/in/anirudhsom/)
+      value: anirudhsom
+      url: https://www.linkedin.com/in/anirudhsom/
     # - name: Languages
     #   value: English, German
 
@@ -14,7 +15,8 @@
   type: time_table
   contents:
     - title: Advanced Computer Scientist
-      institution: [SRI](https://www.sri.com)
+      institution: SRI
+      url: https://www.sri.com
       year: 2021 - Present
       description:
         - ARPA-H PARADIGM - Leading the medical object detection and segmentation effort, and working towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.
