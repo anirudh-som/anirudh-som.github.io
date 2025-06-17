@@ -12,6 +12,20 @@
     # - name: Languages
     #   value: English, German
 
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: Python, Matlab, XML, Latex
+    - name: Libraries/Frameworks
+      value: Pytorch, Tensorflow, Keras, Scikit-learn, Pandas, NumPy, OpenCV
+    - name: NLP & Deep Learning
+      value: Transformers, Large language models, POS tagging, Tokenization, OCR
+    - name: DevOps & Deployment
+      value: Docker, Kubernetes, Gitlab, Artifactory, AWS
+    - name: Data Handling 
+      value: Document extraction, Financial datasets, Unstructured to structured data conversion
+    
 - title: Experience
   type: time_table
   contents:
