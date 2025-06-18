@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Home
+nav_order: 1
 permalink: /
 subtitle: <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
 
