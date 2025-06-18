@@ -20,6 +20,21 @@ layout: default
             <i class="fa-solid fa-file-pdf"></i>
           </a>
         {% endif %}
+
+        {% if page.cv_pdf_alt %}
+          <a
+            {% if page.cv_pdf_alt contains '://' %}
+              href="{{ page.cv_pdf_alt }}"
+            {% else %}
+              href="{{ page.cv_pdf_alt | prepend: 'assets/pdf/' | relative_url }}"
+            {% endif %}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="float-right"
+          >
+            <i class="fa-solid fa-file-pdf"></i> Research CV
+          </a>
+        {% endif %}
       </h1>
       {% if page.description %}
         <p class="post-description">{{ page.description }}</p>
