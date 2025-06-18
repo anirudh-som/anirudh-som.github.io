@@ -10,7 +10,7 @@
     - name: Google Scholar
       value: "<a href='https://scholar.google.com/citations?user=dY2-WmIAAAAJ&hl=en&oi=ao'>Patents and Publications</a>"
     - name: Summary
-      value: Experienced AI/ML lead with over 10 years of expertise in machine learning and deep learning. Currently serving as the technical lead and machine learning expert at SRI, specializing in building computer vision and natural language processing pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.
+      value: Experienced AI/ML lead with over 10 years of expertise in machine learning and deep learning. Currently serving as the technical lead and machine learning expert at SRI, specializing in building natural language processing and computer vision pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.
     # - name: Languages
     #   value: English, German
 
@@ -38,7 +38,7 @@
         - ARPA-H PARADIGM - Leading the medical object detection and segmentation effort, and working towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.
         - DARPA CCU - Developed automated modules for facial analysis, scene understanding and dialogue assessment to help improve operator situational awareness and interactional effectiveness in various cross-cultural settings.
         - DARPA EDGE - Developed an emotion recognition and feedback pipeline to help design better human machine interfaces (HMI) for better operator situational awareness in off-nominal situations.
-        - NSF - Served as the co-PI  and developed automated student group collaboration assessment and recommendation systems by modeling individual-level and group-level behaviors in online and in-person classroom settings.
+        - NSF - Served as the co-PI and developed automated student group collaboration assessment and recommendation systems by modeling individual-level and group-level behaviors in online and in-person classroom settings.
         - Commercial - Delivered proof-of-concepts and functional prototypes for high-profile commercial clients.
 
     - title: Research Intern
@@ -75,7 +75,7 @@
         - Thesis - Building Invariant, Robust and Stable Machine Learning Systems Using Geometry and Topology
         - Coursework - Statistical Machine Learning, Computational Image Understanding & Pattern Analysis, Digital Image & Video Processing, Optimization, Random Signal Theory, Transform Theory, Detection & Estimation Theory
     
-- title: Honors and Awards
+- title: Awards & Recognition
   type: time_table
   contents:
     - year: 2022 - 2024
