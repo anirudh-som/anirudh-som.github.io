@@ -48,12 +48,12 @@ Anirudh combines strong technical depth with practical execution, having deliver
     "The ability to simplify means to eliminate the unnecessary so that the necessary may speak. — Hans Hofmann",
     "The secret of change is to focus all of your energy not on fighting the old, but on building the new. — Socrates",
     "Don’t explain your philosophy. Embody it. — Epictetus",
-    "He who angers you conquers you. — Elizabeth Kenny",
+    "He who angers you, conquers you. — Elizabeth Kenny",
     "Luck is what happens when preparation meets opportunity. — Seneca",
-    "You must be shapeless, formless, like water. — Bruce Lee",
+    "You must be formless, shapeless, like water. — Bruce Lee",
     "The obstacle is the way. — Marcus Aurelius",
     "Opportunities multiply as they are seized. — Sun Tzu",
-    "It is not the strongest of the species that survives, but the one most responsive to change. — Charles Darwin"
+    "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most responsive to change. — Charles Darwin"
   ];
 
   const randomIndex = Math.floor(Math.random() * quotes.length);
