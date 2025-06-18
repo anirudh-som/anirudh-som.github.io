@@ -1,4 +1,4 @@
-- title: Contact & Summary
+- title: Contact
   type: map
   contents:
     - name: Name
@@ -9,11 +9,16 @@
       value: "<a href='https://www.linkedin.com/in/anirudhsom/'>Connect</a>"
     - name: Google Scholar
       value: "<a href='https://scholar.google.com/citations?user=dY2-WmIAAAAJ&hl=en&oi=ao'>Patents and Publications</a>"
-    - name: Summary
-      value: Experienced AI/ML lead with over 10 years of expertise in machine learning and deep learning. Currently serving as the technical lead and machine learning expert at SRI, specializing in building natural language processing and computer vision pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.
+    #- name: Summary
+    #  value: Experienced AI/ML lead with over 10 years of expertise in machine learning and deep learning. Currently serving as the technical lead and machine learning expert at SRI, specializing in building natural language processing and computer vision pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.
     # - name: Languages
     #   value: English, German
 
+- title: Skills
+  type: list
+  contents:
+    - Experienced AI/ML lead with over 10 years of expertise in machine learning and deep learning. Currently serving as the technical lead and machine learning expert at SRI, specializing in building natural language processing and computer vision pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.
+  
 - title: Skills
   type: map
   contents:
