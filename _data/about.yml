@@ -33,7 +33,7 @@
     - name: Data Handling 
       value: Document extraction, Financial datasets, Unstructured to structured data conversion
     
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
     - title: Advanced Computer Scientist
@@ -46,6 +46,8 @@
         - NSF - Served as the co-PI and developed automated student group collaboration assessment and recommendation systems by modeling individual-level and group-level behaviors in online and in-person classroom settings.
         - Commercial - Delivered proof-of-concepts and functional prototypes for high-profile commercial clients.
 
+- title: Pre-Doctoral Experience
+  type: time_table
     - title: Research Intern
       institution: SRI, Princeton, New Jersey
       year: 2020
