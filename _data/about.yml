@@ -48,6 +48,7 @@
 
 - title: Pre-Doctoral Experience
   type: time_table
+  contents:
     - title: Research Intern
       institution: SRI, Princeton, New Jersey
       year: 2020
