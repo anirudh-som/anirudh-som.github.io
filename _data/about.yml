@@ -77,7 +77,7 @@
   type: time_table
   contents:
     - title: Ph.D., Electrical Engineering
-      institution: Arizona State University, Tempe, USA
+      institution: Arizona State University, Tempe, Arizona
       year: 2020
       description:
         - Thesis - Building Invariant, Robust and Stable Machine Learning Systems Using Geometry and Topology
