@@ -33,29 +33,34 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+Anirudh Som is an Applied Machine Learning expert with over a decade of experience designing and deploying machine learning systems across healthcare, education, and human-machine interaction. Previously he served as an Advanced Computer Scientist at [SRI](https://www.sri.com/) where he led R&D efforts for high-impact programs funded by ARPA-H, DARPA, and the NSF, developing solutions in medical imaging, human behavior analysis, and large language models.
+
+Anirudh combines strong technical depth with practical execution, holding multiple patents and has published extensively at leading AI venues such as CVPR, ACL, and ECCV. Anirudh earned his Ph.D. in Electrical Engineering from Arizona State University, where he was advised by [Dr. Pavan Turaga](https://pavanturaga.com/). He is passionate about translating cutting-edge research into real-world impact.
+
+<!-- Change-Date: October_2_2025
 Anirudh Som is an Advanced Computer Scientist at [SRI](https://www.sri.com/) with over a decade of experience designing and deploying machine learning systems across healthcare, education, and human-machine interaction. He leads R&D efforts for high-impact programs funded by ARPA-H, DARPA, and the NSF, developing solutions in medical imaging, human behavior analysis, and large language models.
 
-Anirudh combines strong technical depth with practical execution, having delivered prototypes and proof-of-concept systems for commercial clients including L’Oréal and Honda. He holds multiple patents and has published extensively at leading AI venues such as CVPR, ACL, and ECCV. Anirudh earned his Ph.D. in Electrical Engineering from Arizona State University, where he was advised by [Dr. Pavan Turaga](https://pavanturaga.com/). He is passionate about translating cutting-edge research into real-world impact.
+Anirudh combines strong technical depth with practical execution, having delivered prototypes and proof-of-concept systems for commercial clients including L’Oréal and Honda. He holds multiple patents and has published extensively at leading AI venues such as CVPR, ACL, and ECCV. Anirudh earned his Ph.D. in Electrical Engineering from Arizona State University, where he was advised by [Dr. Pavan Turaga](https://pavanturaga.com/). He is passionate about translating cutting-edge research into real-world impact.-->
 
 To know more, please click [here](https://anirudh-som.github.io/about/).
 
 <div id="quote" style="font-style: italic; margin-top: 20px; color: #888"></div>
 <script>
   const quotes = [
-    "The best way to predict the future is to invent it. — Alan Kay",
-    "In the middle of difficulty lies opportunity. — Albert Einstein",
-    "Simplicity is the soul of efficiency. — Austin Freeman",
-    "Innovation distinguishes between a leader and a follower. — Steve Jobs",
-    "If you can’t explain it simply, you don’t understand it well enough. — Albert Einstein",
-    "Simplicity is the ultimate sophistication. — Leonardo da Vinci",
-    "The ability to simplify means to eliminate the unnecessary so that the necessary may speak. — Hans Hofmann",
-    "The secret of change is to focus all of your energy not on fighting the old, but on building the new. — Socrates",
-    "Don’t explain your philosophy. Embody it. — Epictetus",
-    "He who angers you, conquers you. — Elizabeth Kenny",
-    "Luck is what happens when preparation meets opportunity. — Seneca",
-    "You must be formless, shapeless, like water. — Bruce Lee",
-    "The obstacle is the way. — Marcus Aurelius",
-    "Opportunities multiply as they are seized. — Sun Tzu"
+    "The best way to predict the future is to invent it — Alan Kay",
+    "In the middle of difficulty lies opportunity — Albert Einstein",
+    "Simplicity is the soul of efficiency — Austin Freeman",
+    "Innovation distinguishes between a leader and a follower — Steve Jobs",
+    "If you can’t explain it simply, you don’t understand it well enough — Albert Einstein",
+    "Simplicity is the ultimate sophistication — Leonardo da Vinci",
+    "The ability to simplify means to eliminate the unnecessary so that the necessary may speak — Hans Hofmann",
+    "The secret of change is to focus all of your energy not on fighting the old, but on building the new — Socrates",
+    "Don’t explain your philosophy. Embody it — Epictetus",
+    "He who angers you, conquers you — Elizabeth Kenny",
+    "Luck is what happens when preparation meets opportunity — Seneca",
+    "You must be formless, shapeless, like water — Bruce Lee",
+    "The obstacle is the way — Marcus Aurelius",
+    "Opportunities multiply as they are seized — Sun Tzu"
   ];
 
   const randomIndex = Math.floor(Math.random() * quotes.length);
