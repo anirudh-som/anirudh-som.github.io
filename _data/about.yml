@@ -38,7 +38,7 @@
   contents:
     - title: Advanced Computer Scientist
       institution: SRI, Princeton, New Jersey
-      year: Jan 2021 - Oct 2025
+      year: 2021 - 2025
       description:
         - ARPA-H PARADIGM - Leading the medical object detection and segmentation effort, and working towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.
         - DARPA CCU - Developed automated modules for facial analysis, scene understanding and LLM-based dialogue assessment to help improve operator situational awareness and interactional effectiveness in various cross-cultural settings.
