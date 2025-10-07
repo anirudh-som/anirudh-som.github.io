@@ -41,7 +41,7 @@
       institution: SRI, Princeton, New Jersey
       year: 2021 - 2025
       description:
-        - ARPA-H PARADIGM - Leading the medical object detection and segmentation effort, and working towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.
+        - ARPA-H PARADIGM - Led the medical object detection and segmentation effort, and worked towards a LLM-based task guidance and planning system to help inexperienced healthcare providers in low-resource rural settings.
         - DARPA CCU - Developed automated modules for facial analysis, scene understanding and LLM-based dialogue assessment to help improve operator situational awareness and interactional effectiveness in various cross-cultural settings.
         - DARPA EDGE - Developed an emotion recognition and feedback pipeline to help design better human machine interfaces (HMI) for better operator situational awareness in off-nominal situations.
         - NSF - Served as the co-PI and developed automated student group collaboration assessment and recommendation systems by modeling individual-level and group-level behaviors in online and in-person classroom settings.
@@ -60,7 +60,7 @@
       institution: Roche Diagnostics, Santa Clara, California
       year: 2019
       description:
-        - Developed deep-learning-based image segmentation pipelines to identify regions of necrosis in multiplex immunofluorescence digital pathology images. Worked closely with the software platform team to integrate the trained deep-learning model on the internal research software platform for enabling Field-Of-View (FOV) and Whole-Slide-Image (WSI) inference.
+        - Developed a federated learning framework and deep-learning-based image segmentation pipelines to identify regions of necrosis in multiplex immunofluorescence digital pathology images. Worked closely with the software platform team to integrate the trained deep-learning model on the internal research software platform for enabling Field-Of-View (FOV) and Whole-Slide-Image (WSI) inference.
 
     - title: Computation Intern
       institution: Lawrence Livermore National Lab., Livermore, California
