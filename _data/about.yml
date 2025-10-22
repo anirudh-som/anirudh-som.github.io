@@ -58,25 +58,25 @@
 - title: Pre-Doctoral Experience
   type: time_table
   contents:
-    - title: Research Intern
+    - title: Intern
       institution: SRI, Princeton, New Jersey
       year: 2020
       description: 
         - Developed deep-learning-based algorithms for multimodal behavior analysis and assessment of student group collaboration in classroom and online settings. The deep-learning models were designed with the objective of providing meaningful information to teachers and actionable feedback to students.
 
-    - title: Digital Pathology Intern
+    - title: Intern
       institution: Roche Diagnostics, Santa Clara, California
       year: 2019
       description:
         - Developed a federated learning framework and deep-learning-based image segmentation pipelines to identify regions of necrosis in multiplex immunofluorescence digital pathology images. Worked closely with the software platform team to integrate the trained deep-learning model on the internal research software platform for enabling Field-Of-View (FOV) and Whole-Slide-Image (WSI) inference.
 
-    - title: Computation Intern
+    - title: Intern
       institution: Lawrence Livermore National Lab., Livermore, California
       year: 2018
       description:
         - Developed time-series-based deep-learning algorithms to model electrocardiogram (ECG) signals of different heart disease conditions. Proposed and implemented several strategies to handle the data-imbalance problem across the different heart disease categories.
 
-    - title: Graduate Intern
+    - title: Intern
       institution: Mayo Clinic, Phoenix, Arizona
       year: 2015
       description:
