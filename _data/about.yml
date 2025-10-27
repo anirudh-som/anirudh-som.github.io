@@ -17,9 +17,9 @@
 - title: Summary
   type: list
   contents:
-    # - Experienced AI/ML lead with over 10 years of experience in developing machine learning and deep learning systems. Currently serving as Vice President Applied AI/ML in the Commercial & Investment Banking business unit at JPMorganChase. 
+    - Experienced AI/ML lead with over 10 years of experience in developing machine learning and deep learning systems. Currently serving as Vice President Applied AI/ML in the Commercial & Investment Banking unit at JPMorganChase. 
     # Change-Date: October_27_2025
-    - Experienced AI/ML lead with over 10 years of expertise in machine learning and deep learning. Served as an Advanced Computer Scientist and technical lead at SRI, where I specialized in building natural language processing and computer vision pipelines for real-world business and government applications. Demonstrated the ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.
+    # - Experienced AI/ML lead with over 10 years of expertise in machine learning and deep learning. Served as an Advanced Computer Scientist and technical lead at SRI, where I specialized in building natural language processing and computer vision pipelines for real-world business and government applications. Demonstrated the ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.
     # Change-Date: October_7_2025
     # - Experienced AI/ML lead with over 10 years of expertise in machine learning and deep learning. Currently serving as the technical lead and machine learning expert at SRI, specializing in building natural language processing and computer vision pipelines for real-world business and government applications. Proven ability to work in multidisciplinary, cross-functional teams, design scalable solutions, and translate complex algorithms into actionable products.
  
@@ -40,11 +40,11 @@
 - title: Professional Experience
   type: time_table
   contents:
-    #- title: Vice President Applied AI/ML
-    #  institution: JPMorganChase, New York, New York
-    #  year: 2025 - Present
-    #  description:
-    #    - Part of the Payment Solutions team in the Commercial & Investment Banking business unit.
+    - title: Vice President Applied AI/ML
+      institution: JPMorganChase, New York, New York
+      year: 2025 - Present
+      description:
+        - Part of the Payment Solutions team in the Commercial & Investment Banking business unit.
       
     - title: Advanced Computer Scientist
       institution: SRI, Princeton, New Jersey
