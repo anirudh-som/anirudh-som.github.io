@@ -54,20 +54,20 @@ To know more, please click [here](https://anirudh-som.github.io/about/).
 <div id="quote" style="font-style: italic; margin-top: 20px; color: #888"></div>
 <script>
   const quotes = [
-    "The best way to predict the future is to invent it — Alan Kay",
-    "In the middle of difficulty lies opportunity — Albert Einstein",
-    "Simplicity is the soul of efficiency — Austin Freeman",
-    "Innovation distinguishes between a leader and a follower — Steve Jobs",
-    "If you can’t explain it simply, you don’t understand it well enough — Albert Einstein",
-    "Simplicity is the ultimate sophistication — Leonardo da Vinci",
-    "The ability to simplify means to eliminate the unnecessary so that the necessary may speak — Hans Hofmann",
-    "The secret of change is to focus all of your energy not on fighting the old, but on building the new — Socrates",
-    "Don’t explain your philosophy. Embody it — Epictetus",
-    "He who angers you, conquers you — Elizabeth Kenny",
-    "Luck is what happens when preparation meets opportunity — Seneca",
-    "You must be formless, shapeless, like water — Bruce Lee",
-    "The obstacle is the way — Marcus Aurelius",
-    "Opportunities multiply as they are seized — Sun Tzu"
+    "``The best way to predict the future is to invent it'' — Alan Kay",
+    "``In the middle of difficulty lies opportunity'' — Albert Einstein",
+    "``Simplicity is the soul of efficiency'' — Austin Freeman",
+    "``Innovation distinguishes between a leader and a follower'' — Steve Jobs",
+    "``If you can’t explain it simply, you don’t understand it well enough'' — Albert Einstein",
+    "``Simplicity is the ultimate sophistication'' — Leonardo da Vinci",
+    "``The ability to simplify means to eliminate the unnecessary so that the necessary may speak'' — Hans Hofmann",
+    "``The secret of change is to focus all of your energy not on fighting the old, but on building the new'' — Socrates",
+    "``Don’t explain your philosophy. Embody it'' — Epictetus",
+    "``He who angers you, conquers you'' — Elizabeth Kenny",
+    "``Luck is what happens when preparation meets opportunity'' — Seneca",
+    "``You must be formless, shapeless, like water'' — Bruce Lee",
+    "``The obstacle is the way'' — Marcus Aurelius",
+    "``Opportunities multiply as they are seized'' — Sun Tzu"
   ];
 
   const randomIndex = Math.floor(Math.random() * quotes.length);
