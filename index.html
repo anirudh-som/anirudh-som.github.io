@@ -2,20 +2,20 @@
     initTheme();
   </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse text-right" id="navbarNav"> <ul class="navbar-nav ml-auto flex-nowrap"> <li class="nav-item active"> <a class="nav-link" href="/">Home <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/about/">About </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">Publications </a> </li> <li class="nav-item"> <button id="search-toggle" title="Search" onclick="openSearchModal()"> <span class="nav-link">ctrl k <i class="ti ti-search"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="ti ti-sun-moon" id="light-toggle-system"></i> <i class="ti ti-moon-filled" id="light-toggle-dark"></i> <i class="ti ti-sun-filled" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title"> Anirudh Som </h1> <p class="desc"></p> </header> <article> <div class="profile float-right"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/AnirudhSom-480.webp 480w,/assets/img/AnirudhSom-800.webp 800w,/assets/img/AnirudhSom-1400.webp 1400w," type="image/webp" sizes="(min-width: 930px) 270.0px, (min-width: 576px) 30vw, 95vw"> <img src="/assets/img/AnirudhSom.jpg?45f22c4323817d31b23b668888fab453" class="img-fluid z-depth-1 rounded-circle" width="100%" height="auto" alt="AnirudhSom.jpg" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </source></picture> </figure> </div> <div class="clearfix"> <p>Anirudh Som is an Applied Machine Learning expert with over a decade of experience developing machine learning frameworks across different application domains. Currently he serves as Vice President Applied AI/ML in the Payment Solutions team at <a href="https://www.jpmorganchase.com/about" rel="external nofollow noopener" target="_blank">JPMorganChase</a>. Previously he served as an Advanced Computer Scientist at <a href="https://www.sri.com/" rel="external nofollow noopener" target="_blank">SRI</a> where he led R&amp;D efforts for high-impact government programs.</p> <p>Anirudh combines strong technical depth with practical execution, holding multiple patents and has published extensively at leading AI venues such as ACL, CVPR, and ECCV. Anirudh earned his Ph.D. in Electrical Engineering from Arizona State University, where he was advised by <a href="https://pavanturaga.com/" rel="external nofollow noopener" target="_blank">Dr. Pavan Turaga</a>. He is passionate about translating cutting-edge research into real-world impact.</p> <p>To know more, please click <a href="https://anirudh-som.github.io/about/">here</a>.</p> <div id="quote" style="font-style: italic; margin-top: 20px; color: #888"></div> <script>
   const quotes = [
-    "``The best way to predict the future is to invent it'' — Alan Kay",
-    "``In the middle of difficulty lies opportunity'' — Albert Einstein",
-    "``Simplicity is the soul of efficiency'' — Austin Freeman",
-    "``Innovation distinguishes between a leader and a follower'' — Steve Jobs",
-    "``If you can’t explain it simply, you don’t understand it well enough'' — Albert Einstein",
-    "``Simplicity is the ultimate sophistication'' — Leonardo da Vinci",
-    "``The ability to simplify means to eliminate the unnecessary so that the necessary may speak'' — Hans Hofmann",
-    "``The secret of change is to focus all of your energy not on fighting the old, but on building the new'' — Socrates",
-    "``Don’t explain your philosophy. Embody it'' — Epictetus",
-    "``He who angers you, conquers you'' — Elizabeth Kenny",
-    "``Luck is what happens when preparation meets opportunity'' — Seneca",
-    "``You must be formless, shapeless, like water'' — Bruce Lee",
-    "``The obstacle is the way'' — Marcus Aurelius",
-    "``Opportunities multiply as they are seized'' — Sun Tzu"
+    "''The best way to predict the future is to invent it'' — Alan Kay",
+    "''In the middle of difficulty lies opportunity'' — Albert Einstein",
+    "''Simplicity is the soul of efficiency'' — Austin Freeman",
+    "''Innovation distinguishes between a leader and a follower'' — Steve Jobs",
+    "''If you can’t explain it simply, you don’t understand it well enough'' — Albert Einstein",
+    "''Simplicity is the ultimate sophistication'' — Leonardo da Vinci",
+    "''The ability to simplify means to eliminate the unnecessary so that the necessary may speak'' — Hans Hofmann",
+    "''The secret of change is to focus all of your energy not on fighting the old, but on building the new'' — Socrates",
+    "''Don’t explain your philosophy. Embody it'' — Epictetus",
+    "''He who angers you, conquers you'' — Elizabeth Kenny",
+    "''Luck is what happens when preparation meets opportunity'' — Seneca",
+    "''You must be formless, shapeless, like water'' — Bruce Lee",
+    "''The obstacle is the way'' — Marcus Aurelius",
+    "''Opportunities multiply as they are seized'' — Sun Tzu"
   ];
 
   const randomIndex = Math.floor(Math.random() * quotes.length);
