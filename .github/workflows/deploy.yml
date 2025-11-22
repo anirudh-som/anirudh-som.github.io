@@ -92,9 +92,12 @@ jobs:
         run: bundle clean --force
       - name: Install and Build 🔧
         run: |
+          sudo apt-get install -y build-essential patch ruby-dev zlib1g-dev
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
+          bundle clean --force || true
+          bundle install --jobs 4 --retry 3 --path vendor/bundle --verbose
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
