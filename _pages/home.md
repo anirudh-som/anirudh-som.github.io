@@ -35,7 +35,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Anirudh Som is an Applied Machine Learning expert with over a decade of experience developing machine learning frameworks across different application domains. Currently he serves as Vice President Applied AI/ML in the Payment Solutions team at [JPMorganChase](https://www.jpmorganchase.com/about). Previously he was at [SRI](https://www.sri.com/) where he led R&D efforts for high-impact government programs.
 
-Anirudh combines strong technical depth with practical execution, holding multiple patents and has published extensively at leading AI venues such as ACL, CVPR, and ECCV. Anirudh earned his Ph.D. in Electrical Engineering from Arizona State University, where he was advised by [Dr. Pavan Turaga](https://pavanturaga.com/). He is passionate about translating cutting-edge research into real-world impact.
+Anirudh combines strong technical depth with practical execution, holding multiple patents and has published at leading AI venues such as ACL, CVPR, and ECCV. He earned his Ph.D. in Electrical Engineering from Arizona State University, where he was advised by [Dr. Pavan Turaga](https://pavanturaga.com/). He is passionate about translating cutting-edge research into real-world impact.
 
 <!-- 
 Change-Date: October_27_2025
