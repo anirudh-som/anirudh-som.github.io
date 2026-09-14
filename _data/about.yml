@@ -45,7 +45,7 @@
       year: 2025 - Present
       description:
         - Part of the Payment Solutions team in the Commercial & Investment Banking (CIB) business unit.
-        - Large Payments Model (LPM) - Built a transformer-based foundation model for fraud detection in payment transactions.
+        - Large Payments Model (LPM) - Built JPMC’s first transformer-based foundation model for fraud detection in payment transactions.
         - Automated Clearing House (ACH) - Improved precision and recall-by-volume by 27%, and recall-by-value by 64%, over production Catboost baseline.
         - Wire - Improved precision and recall-by-volume by 6% over Catboost baseline.
         - Serving - Co-built the GPU-optimized serving platform powering LPM, achieving sub-100ms inference at production scale (~40ms P90, ~60ms P99).
